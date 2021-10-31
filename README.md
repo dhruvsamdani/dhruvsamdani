@@ -1,6 +1,6 @@
 ### Hi there I'm Dhruv Samdani 👋
 
-I am a senior at Irvington High School who loves to code. I am interested in photography, math, artificial intelligence, and learning more about computer science
+I am a freshman at Arizona State University who loves to code. I am interested in photography, math, artificial intelligence, and learning more about computer science while working towards my B.S in computer science.
 <!--
 **dhruvsamdani/dhruvsamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

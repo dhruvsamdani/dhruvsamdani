@@ -1,6 +1,6 @@
 ### Hi there I'm Dhruv Samdani 👋
 
-I am a student at Arizona State University who loves to code. I am interested in investment finance, photography, math, artificial intelligence, and learning more about computer science while working towards my B.S in computer science.
+I am a student at Arizona State University who loves to code. I am interested in investment finance, photography, math, artificial intelligence, and learning more about computer science while working towards my B.S in computer science and B.S in Statistics.
 <!--
 **dhruvsamdani/dhruvsamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
